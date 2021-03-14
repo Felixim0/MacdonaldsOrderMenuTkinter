@@ -1,0 +1,95 @@
+SANDWICHES		Individual Price	Medium Extra Value Meal	Large Extra Value Meal
+
+Chicken Legend with Cool Mayo	3.59	5.09	5.49
+Chicken Legend with BBQ Sauce	3.59	5.09	5.49
+Chicken Legend with Hot and 	3.59	5.09	5.49
+Chicken Selects 3 pieces	3.19	4.59	4.99
+Chicken Selects 5 pieces	4.19	5.59	5.99
+Big Mac	2.99	4.49	4.89
+Quarter Pounder with Cheese	2.99	4.49	4.89
+Filet-O-Fish	2.79	4.49	4.89
+McChicken Sandwich	2.99	4.49	4.89
+Chicken McNuggets 6 pieces	2.99	4.49	4.89
+Chicken McNuggets 9 pieces	3.19
+Chicken McNuggets 20 piece share box	3.99
+Cheeseburger	0.99
+Hamburger	0.89
+
+SIGNATURE COLLECTION	Individual Price	Medium Extra Value Meal	Large Extra Value Meal
+
+The Classic	4.79	6.29	6.69
+The BBQ	4.79	6.29	6.69
+The Spicy	4.79	6.29	6.69
+
+BIG FLAVOUR WRAPS	Individual Price	Medium Meal Price	Large Meal Price
+
+The Sweet Chilli Chicken One	2.99	4.59	4.99
+The Garlic Mayo Chicken One	2.99	4.59	4.99
+The Hot Peri Peri Chicken One	2.99	4.59	4.99
+The BBQ Chicken & Bacon One	2.99	4.59	4.99
+
+FRENCH FRIES	Individual Price
+
+Small	0.89
+Medium	1.09
+Large	1.39
+
+SAVER MENU	Individual Price
+
+BBQ Chicken Snack Wrap	1.49
+Double Cheeseburger	1.49
+BBQ Chicken BLC	1.49
+Mayo Chicken	0.99
+Cheeseburger	0.99
+Shaker Side Salad	1.09
+Sundaes Strawberry / Toffee	0.99
+Medium Fries	1.09
+McFlurry Various	0.99
+
+HAPPY MEAL	Meal Price
+
+Crispy Chicken Wrap	2.69
+Cheeseburger	2.69
+Hamburger	2.69
+Chicken McNuggets 4 pieces	2.69
+Fish Fingers	2.69
+Carrot Sticks individual price	0.79
+Fruit Bag (Slices of apple and grapes)	0.79
+
+BREAKFAST (served until 10:30am)	Individual Price	Meal Price
+
+Breakfast Wrap	2.79	3.69
+Sausage, Egg & Cheese Bagel	2.29	3.59
+Bacon, Egg & Cheese Bagel	2.29	3.59
+Double Sausage & Egg McMuffin	2.59	3.89
+Double Bacon & Egg McMuffin	2.59	3.89
+Pancakes & Syrup	2.19
+Pancakes & Sausage with Syrup	2.59	3.49
+Sausage & Egg McMuffin	2.19	3.49
+Bacon & Egg McMuffin	2.19	3.49
+Egg & Cheese McMuffin	1.69	2.99
+Bacon Roll	2.19	3.49
+Quaker Oatso Simple Porridge	0.99
+Bagel - various	0.99
+Hash Brown	0.79
+Egg & Cheese Snack Wrap	0.99
+Sausage & Egg Snack Wrap	1.29
+Bacon & Egg Snack Wrap	1.29
+
+DESSERTS	Individual Price
+
+McFlurry (various)	0.99
+Promotional McFlurry	Ask in store
+Hot Apple Pie	0.99
+Fruit Bag (Slices of apple and grapes)	0.79
+Ice Cream Cone	0.69
+Ice Cream Cone (with Cadbury 99 Flake)	0.79
+Sundae (Strawberry/Toffee)	0.99
+
+TEMPTING TREATS
+
+Chocolatey Donut	1.19
+Blueberry Muffin	1.19
+Chocolate Muffin	1.19
+Triple Chocolate Cookie	1.09
+Sugar Donut	0.99
